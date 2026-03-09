@@ -1,19 +1,66 @@
-# Olá, bem-vindo(a) ao meu projeto!
+# 🌍 Sorteador de Países e Pratos Típicos
 
-## Desafio JavaScript - T.EX 
-> Desenvolver e aplicar a lógica de programação em um programa Javascript.
+Projeto desenvolvido para **praticar lógica de programação com JavaScript**, manipulando arrays, eventos e elementos do DOM.
 
-## Interface
-- Um elemento DIV de id ‘boxMensagem’
-- Um elemento BUTTON de id ‘btnMensagem’
+A aplicação sorteia um país aleatoriamente e exibe um **prato típico**, além de registrar quantas vezes cada país foi sorteado.
 
-## Programa
-- Criar um ARRAY bidimensional com 10 posições
-- Preencher o ARRAY com STRNGS que representem nomes e descrições de países
-- O evento CLICK do elemento BUTTON deve executar as seguintes ações:
-  - Sortear um valor aleatório obtido do ARRAY paises
-  - Acumular a quantidade de vezes que cada respectivo nome se repete
-  - Imprimir na DIV ‘boxMensagem’:
-    -  O nome do país sorteado
-    -  A descrição
-    - A quantidade de vezes que foi exibido
+---
+
+## 🚀 Funcionalidades
+
+- Sorteio aleatório de países
+- Exibição de prato típico do país
+- Contagem de quantas vezes cada país foi sorteado
+- Atualização dinâmica do conteúdo na tela
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript
+
+---
+
+## 📂 Estrutura do projeto
+projeto-sorteador-js/
+``` bach
+root/
+│
+├── index.html
+├── js/
+│ ├── array.js
+│ └── array_01.js
+│
+└── src/
+├── css/
+│ └── styles.css
+└── scss/
+└── styles.scss
+
+```
+
+---
+
+## 🎯 Objetivo
+
+Praticar conceitos fundamentais de **JavaScript**, como:
+
+- Manipulação de arrays
+- Geração de números aleatórios
+- Manipulação do DOM
+- Eventos de clique
+- Contadores e lógica de controle
+
+---
+
+## ▶️ Como executar
+
+Clone o repositório e abra o arquivo `index.html` no navegador.
+
+---
+
+## 👩‍💻 Autora
+
+**Juliana Ferreira**
